@@ -9,7 +9,7 @@ RESTful command executor with static file serve.
 export TOKEN=yourtoken
 export CMDS="ls,ls -l,date"
 
-rest-exec
+restexec
 ```
 
 # request
